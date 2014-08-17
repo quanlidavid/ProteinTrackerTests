@@ -1,3 +1,4 @@
+package com.simpleprogrammer.proteintracker.tests;
 import java.util.Arrays;
 import java.util.List;
 

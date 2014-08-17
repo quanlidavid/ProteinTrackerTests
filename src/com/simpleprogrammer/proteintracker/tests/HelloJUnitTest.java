@@ -1,3 +1,4 @@
+package com.simpleprogrammer.proteintracker.tests;
 import org.junit.Test;
 import org.junit.experimental.categories.Category;
 
